@@ -1,6 +1,6 @@
-# Pokedex Project for Git Workshop
+# Git Workshop Pt. 2 - Teamwork - Build the Pokedex
 
-Full-stack Django/React Pokedex app.
+As a team, build a full-stack Django/React Pokedex app. The code is given to you; the focus is on workflow & communication.
 
 Use this as a team to practice the "feature branch" workflow.
 
