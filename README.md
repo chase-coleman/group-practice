@@ -4,6 +4,10 @@ As a team, build a full-stack Django/React Pokedex app. The code is given to you
 
 Use this as a team to practice the "feature branch" workflow.
 
+**You have a 30-minute timeline;** this forces speed and communication.
+
+After that, **the class should reconvene,** share challenges/lessons learned, discuss, and review. 
+
 ## Instructions
 
 1. One teammember **CLONES** this repo. That becomes the 'team repo.'
