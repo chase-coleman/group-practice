@@ -23,6 +23,7 @@ class Pokemon(models.Model):
     description = models.TextField(default="Unknown", validators=[v.MinLengthValidator(7), v.MaxLengthValidator(150)])
     # Boolean field is already ensuring to only take in either True or False
     captured = models.BooleanField(default = False)
+    
 
     # DUNDER METHOD
     def __str__(self):
