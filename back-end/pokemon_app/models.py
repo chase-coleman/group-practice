@@ -4,6 +4,7 @@ from django.utils import timezone
 # import built-in Django Validators
 from django.core import validators as v
 from .validators import validate_name
+from serializers import PokemonSerializer
 
 # Create your models here.
 class Pokemon(models.Model):
